@@ -1,0 +1,27 @@
+{
+  "name": "dailycite",
+  "version": "1.0.0",
+  "description": "Twitter Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguadotzn/dailycite.git"
+  },
+  "keywords": [
+    "bot",
+    "twitter"
+  ],
+  "author": "AAguado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aguadotzn/dailycite/issues"
+  },
+  "homepage": "https://github.com/aguadotzn/dailycite#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "twit": "^2.2.9"
+  }
+}
